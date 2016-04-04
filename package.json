@@ -1,0 +1,21 @@
+{
+  "name": "startPKG",
+  "version": "1.0.0",
+  "description": "start file project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project_name"
+  ],
+  "author": "Sergey Drozd",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-csso": "^1.1.0",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {}
+}
